@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Linq\Linq\Linq9\bin\Debug\net7.0\Linq9.exe
+C:\Users\Administrator\Desktop\Linq\Linq\Linq9\bin\Debug\net7.0\Linq9.deps.json
+C:\Users\Administrator\Desktop\Linq\Linq\Linq9\bin\Debug\net7.0\Linq9.runtimeconfig.json
+C:\Users\Administrator\Desktop\Linq\Linq\Linq9\bin\Debug\net7.0\Linq9.dll
+C:\Users\Administrator\Desktop\Linq\Linq\Linq9\bin\Debug\net7.0\Linq9.pdb
+C:\Users\Administrator\Desktop\Linq\Linq\Linq9\obj\Debug\net7.0\Linq9.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq9\obj\Debug\net7.0\Linq9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Linq\Linq\Linq9\obj\Debug\net7.0\Linq9.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq9\obj\Debug\net7.0\Linq9.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Linq\Linq\Linq9\obj\Debug\net7.0\Linq9.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq9\obj\Debug\net7.0\Linq9.dll
+C:\Users\Administrator\Desktop\Linq\Linq\Linq9\obj\Debug\net7.0\refint\Linq9.dll
+C:\Users\Administrator\Desktop\Linq\Linq\Linq9\obj\Debug\net7.0\Linq9.pdb
+C:\Users\Administrator\Desktop\Linq\Linq\Linq9\obj\Debug\net7.0\Linq9.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq9\obj\Debug\net7.0\ref\Linq9.dll

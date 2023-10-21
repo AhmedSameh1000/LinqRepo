@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Linq\Linq\Linq5\bin\Debug\net7.0\Linq5.exe
+C:\Users\Administrator\Desktop\Linq\Linq\Linq5\bin\Debug\net7.0\Linq5.deps.json
+C:\Users\Administrator\Desktop\Linq\Linq\Linq5\bin\Debug\net7.0\Linq5.runtimeconfig.json
+C:\Users\Administrator\Desktop\Linq\Linq\Linq5\bin\Debug\net7.0\Linq5.dll
+C:\Users\Administrator\Desktop\Linq\Linq\Linq5\bin\Debug\net7.0\Linq5.pdb
+C:\Users\Administrator\Desktop\Linq\Linq\Linq5\obj\Debug\net7.0\Linq5.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq5\obj\Debug\net7.0\Linq5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Linq\Linq\Linq5\obj\Debug\net7.0\Linq5.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq5\obj\Debug\net7.0\Linq5.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Linq\Linq\Linq5\obj\Debug\net7.0\Linq5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq5\obj\Debug\net7.0\Linq5.dll
+C:\Users\Administrator\Desktop\Linq\Linq\Linq5\obj\Debug\net7.0\refint\Linq5.dll
+C:\Users\Administrator\Desktop\Linq\Linq\Linq5\obj\Debug\net7.0\Linq5.pdb
+C:\Users\Administrator\Desktop\Linq\Linq\Linq5\obj\Debug\net7.0\Linq5.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq5\obj\Debug\net7.0\ref\Linq5.dll

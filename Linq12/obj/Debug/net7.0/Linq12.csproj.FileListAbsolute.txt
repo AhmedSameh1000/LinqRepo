@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Linq\Linq\Linq12\bin\Debug\net7.0\Linq12.exe
+C:\Users\Administrator\Desktop\Linq\Linq\Linq12\bin\Debug\net7.0\Linq12.deps.json
+C:\Users\Administrator\Desktop\Linq\Linq\Linq12\bin\Debug\net7.0\Linq12.runtimeconfig.json
+C:\Users\Administrator\Desktop\Linq\Linq\Linq12\bin\Debug\net7.0\Linq12.dll
+C:\Users\Administrator\Desktop\Linq\Linq\Linq12\bin\Debug\net7.0\Linq12.pdb
+C:\Users\Administrator\Desktop\Linq\Linq\Linq12\obj\Debug\net7.0\Linq12.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq12\obj\Debug\net7.0\Linq12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Linq\Linq\Linq12\obj\Debug\net7.0\Linq12.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq12\obj\Debug\net7.0\Linq12.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Linq\Linq\Linq12\obj\Debug\net7.0\Linq12.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq12\obj\Debug\net7.0\Linq12.dll
+C:\Users\Administrator\Desktop\Linq\Linq\Linq12\obj\Debug\net7.0\refint\Linq12.dll
+C:\Users\Administrator\Desktop\Linq\Linq\Linq12\obj\Debug\net7.0\Linq12.pdb
+C:\Users\Administrator\Desktop\Linq\Linq\Linq12\obj\Debug\net7.0\Linq12.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq12\obj\Debug\net7.0\ref\Linq12.dll

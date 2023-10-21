@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Linq\Linq\Linq3\bin\Debug\net7.0\Linq3.exe
+C:\Users\Administrator\Desktop\Linq\Linq\Linq3\bin\Debug\net7.0\Linq3.deps.json
+C:\Users\Administrator\Desktop\Linq\Linq\Linq3\bin\Debug\net7.0\Linq3.runtimeconfig.json
+C:\Users\Administrator\Desktop\Linq\Linq\Linq3\bin\Debug\net7.0\Linq3.dll
+C:\Users\Administrator\Desktop\Linq\Linq\Linq3\bin\Debug\net7.0\Linq3.pdb
+C:\Users\Administrator\Desktop\Linq\Linq\Linq3\obj\Debug\net7.0\Linq3.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq3\obj\Debug\net7.0\Linq3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Linq\Linq\Linq3\obj\Debug\net7.0\Linq3.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq3\obj\Debug\net7.0\Linq3.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Linq\Linq\Linq3\obj\Debug\net7.0\Linq3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq3\obj\Debug\net7.0\Linq3.dll
+C:\Users\Administrator\Desktop\Linq\Linq\Linq3\obj\Debug\net7.0\refint\Linq3.dll
+C:\Users\Administrator\Desktop\Linq\Linq\Linq3\obj\Debug\net7.0\Linq3.pdb
+C:\Users\Administrator\Desktop\Linq\Linq\Linq3\obj\Debug\net7.0\Linq3.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq3\obj\Debug\net7.0\ref\Linq3.dll

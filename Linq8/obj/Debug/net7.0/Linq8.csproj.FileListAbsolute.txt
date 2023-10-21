@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Linq\Linq\Linq8\bin\Debug\net7.0\Linq8.exe
+C:\Users\Administrator\Desktop\Linq\Linq\Linq8\bin\Debug\net7.0\Linq8.deps.json
+C:\Users\Administrator\Desktop\Linq\Linq\Linq8\bin\Debug\net7.0\Linq8.runtimeconfig.json
+C:\Users\Administrator\Desktop\Linq\Linq\Linq8\bin\Debug\net7.0\Linq8.dll
+C:\Users\Administrator\Desktop\Linq\Linq\Linq8\bin\Debug\net7.0\Linq8.pdb
+C:\Users\Administrator\Desktop\Linq\Linq\Linq8\obj\Debug\net7.0\Linq8.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq8\obj\Debug\net7.0\Linq8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Linq\Linq\Linq8\obj\Debug\net7.0\Linq8.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq8\obj\Debug\net7.0\Linq8.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Linq\Linq\Linq8\obj\Debug\net7.0\Linq8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq8\obj\Debug\net7.0\Linq8.dll
+C:\Users\Administrator\Desktop\Linq\Linq\Linq8\obj\Debug\net7.0\refint\Linq8.dll
+C:\Users\Administrator\Desktop\Linq\Linq\Linq8\obj\Debug\net7.0\Linq8.pdb
+C:\Users\Administrator\Desktop\Linq\Linq\Linq8\obj\Debug\net7.0\Linq8.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq8\obj\Debug\net7.0\ref\Linq8.dll

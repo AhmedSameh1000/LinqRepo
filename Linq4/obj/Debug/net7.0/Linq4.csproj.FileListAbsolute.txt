@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Linq\Linq\Linq4\bin\Debug\net7.0\Linq4.exe
+C:\Users\Administrator\Desktop\Linq\Linq\Linq4\bin\Debug\net7.0\Linq4.deps.json
+C:\Users\Administrator\Desktop\Linq\Linq\Linq4\bin\Debug\net7.0\Linq4.runtimeconfig.json
+C:\Users\Administrator\Desktop\Linq\Linq\Linq4\bin\Debug\net7.0\Linq4.dll
+C:\Users\Administrator\Desktop\Linq\Linq\Linq4\bin\Debug\net7.0\Linq4.pdb
+C:\Users\Administrator\Desktop\Linq\Linq\Linq4\obj\Debug\net7.0\Linq4.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq4\obj\Debug\net7.0\Linq4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Linq\Linq\Linq4\obj\Debug\net7.0\Linq4.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq4\obj\Debug\net7.0\Linq4.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Linq\Linq\Linq4\obj\Debug\net7.0\Linq4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq4\obj\Debug\net7.0\Linq4.dll
+C:\Users\Administrator\Desktop\Linq\Linq\Linq4\obj\Debug\net7.0\refint\Linq4.dll
+C:\Users\Administrator\Desktop\Linq\Linq\Linq4\obj\Debug\net7.0\Linq4.pdb
+C:\Users\Administrator\Desktop\Linq\Linq\Linq4\obj\Debug\net7.0\Linq4.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Linq\Linq\Linq4\obj\Debug\net7.0\ref\Linq4.dll
